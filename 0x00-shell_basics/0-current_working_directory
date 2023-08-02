@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "absoulute path of the current working directory:$current_dir"
+echo "/tmp/correction/6637402936256685313107468132297367502122_5/205/514040/0x00-shell_basics:$current_dir"
