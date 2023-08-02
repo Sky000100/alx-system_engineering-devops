@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "absoulute path of the current working directory:$current_dir" /n
+echo "absoulute path of the current working directory:$current_dir"
