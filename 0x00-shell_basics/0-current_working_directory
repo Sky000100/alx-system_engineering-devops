@@ -1,3 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd)
-printf "Absolute path of the current working directory: %s\n" "$current_dir"
+current_dir=$(pwd) ,printf "Absolute path of the current working directory: %s\n" "$current_dir"
