@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "/tmp/correction/6637402936256685313107468132297367502122_5/205/514040/0x00-shell_basics"
+current_dir=$(pwd)
+printf "Absolute path of the current working directory: %s\n" "$current_dir"
