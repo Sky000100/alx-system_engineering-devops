@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($(echo $WATER | tr -d 'water') + $(echo $STIR | tr -d 'stir'))) bestchol"
+result=$(echo "obase=5; ibase=5; ${WATER//water/} + ${STIR//stir/}" | bc | rev | tr '01234' 'chelbteb')
